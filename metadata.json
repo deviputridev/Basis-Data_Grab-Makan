@@ -1,0 +1,6 @@
+{
+  "name": "GrabMakan",
+  "description": "Premium food delivery application with real-time tracking, intuitive cart management, and elegant UI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
