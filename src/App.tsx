@@ -141,7 +141,7 @@ export default function App() {
               <a href="#" className="text-slate-600 hover:text-primary transition-colors text-sm">Contact</a>
             </div>
             <div className="text-slate-400 text-sm">
-              © 2024 GrabMakan. All rights reserved.
+              © 2026 GrabMakan. All rights reserved.
             </div>
           </div>
         </footer>

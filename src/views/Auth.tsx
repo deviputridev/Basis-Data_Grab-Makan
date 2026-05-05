@@ -163,7 +163,7 @@ export default function AuthView({ onNavigate }: AuthViewProps) {
         </div>
         
         <div className="p-8 text-center text-slate-300 text-[10px] font-bold uppercase tracking-widest mt-auto">
-          GrabMakan Secure Authentication • Powered by Antigravity
+          GrabMakan Secure Authentication • GrabMakan
         </div>
       </div>
     </div>

@@ -28,7 +28,7 @@ export default function CheckoutView({ onNavigate }: CheckoutViewProps) {
                 <span className="font-bold text-sm">Rumah</span>
                 <span className="bg-primary-container text-on-primary-container text-[10px] px-2 py-0.5 rounded-md font-black uppercase tracking-wider">Utama</span>
               </div>
-              <p className="text-lg font-bold mb-1">Budi Santoso (+62 812-3456-7890)</p>
+              <p className="text-lg font-bold mb-1">Park Jinyoung (+62 812-3456-7890)</p>
               <p className="text-sm text-slate-500 leading-relaxed">Jl. Jenderal Sudirman No. 123, SCBD, Kebayoran Baru, Jakarta Selatan, 12190</p>
               <div className="mt-4 flex items-center gap-2 text-primary font-bold text-xs bg-primary/5 w-fit px-3 py-1.5 rounded-full">
                 <ShieldCheck className="w-4 h-4 fill-primary text-white" />
